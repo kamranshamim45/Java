@@ -6,6 +6,7 @@ public class studentmanagementsystem {
          int n = 0;
         String[] names = null;
         String[] courses = null;
+        
         int[] rolls = null;
         
          while (true) {
